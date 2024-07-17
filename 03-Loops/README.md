@@ -27,3 +27,12 @@ do
 echo "The file name is : ${i}"
 done
 ```
+## while loop
+### syntax
+
+```
+while [ Expression ]
+do
+# some code
+done
+```
